@@ -2,7 +2,7 @@
 Local Content Management Module for RACHEL with support for lesson plans, which link content across modules.
 
 ## Motivation
-The goal of the this RACHEL module is two-fold:
+The goals of the this RACHEL module are:
 1. Improve access to existing content through the creation of lesson plans that group pointers to content across modules
 2. Allow for post-install content upload, e.g. by a teacher or volunteer
 3. Enable non-technical volunteer entry points aligned with their interests / expertise
