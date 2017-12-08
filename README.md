@@ -11,6 +11,8 @@ The goals of the this RACHEL module are:
 With this module, a RACHEL admin can WYSIWYG create a new module that will be visible on RACHEL's homepage. 
 See a demo video here (somewhat dated): http://piensagrande.org/video/LC-Demo-Video.mp4 
 
+Make sure that permissions on this directory permit the original write emptyjson.txt by running chown -R www-data:www-data on it.
+
 ## Developer Notes
 Lesson plans are stored as json files so they could be created and stored via a web resource and deployed later. 
 
