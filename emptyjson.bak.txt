@@ -1,0 +1,20 @@
+{
+    "title": "",
+    "objective": "",
+    "criticalPoints": [],
+    "ideas": [],
+    "groups": [
+        {
+            "type": "lc-interactive",
+            "name": "Local Content - Videos and Interactive Content",
+            "logoUri": "\/modules\/local_content\/images\/clapper.png",
+            "items": []
+        },
+        {
+            "type": "lc-static",
+            "name": "Local Content - Documents and Static Content",
+            "logoUri": "\/modules\/local_content\/images\/printer.png",
+            "items": []
+        }
+    ]
+}

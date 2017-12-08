@@ -1,0 +1,178 @@
+
+
+*, *:after, *:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+body, html { font-size: 100%; padding: 0; margin: 0; height: 100%;}
+
+/* Clearfix hack by Nicolas Gallagher: http://nicolasgallagher.com/micro-clearfix-hack/ */
+.clearfix:before, .clearfix:after { content: " "; display: table; }
+.clearfix:after { clear: both; }
+
+
+#pg-rachel {
+    display: block;
+    height: 28px;
+    background: #000 url('rachel-banner-small.png') no-repeat 5px 0;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    position: relative;
+}
+
+#pg-rachel {
+    display: block;
+    height: 28px;
+    background: #000 url('rachel-banner-small.png') no-repeat 5px 0;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    position: relative;
+}
+
+#lc-content {
+    height: 100%; 
+    width: 90%; /* 960px */
+    margin: 10px auto;
+}
+
+body {
+	font-family: Calibri, Arial, sans-serif;
+	color: #555; /* #777 */
+	/*background: #CCC url('colorfade3.jpg') no-repeat; 
+    background-size:cover;*/
+}
+
+a {
+	color: #8D0D19; /* #8D0D19 */
+	text-decoration: none;
+	outline: none;
+}
+
+a:hover,
+a:active {
+	color: #1A446C; /* #777 */
+    cursor: pointer; /* RMS */
+}
+
+.error {
+    color: #8D0D19; border: 2px solid #8D0D19;
+    margin: 1em 0; padding: 1em;
+}
+
+.error ul { padding-left: 2em; }
+
+.message {
+    color: #1A446C; border: 2px solid #1A446C;
+    margin: 1em 0; padding: 1em;
+}
+
+.message ul { padding-left: 2em; }
+
+#logo {
+  max-height:300px;
+  float:left;
+}
+
+#info {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding-left: 50px;
+    /*padding-top: 20px;
+    padding-bottom:12px;*/
+}
+
+#info p {
+    margin-top: -12px;    
+}
+
+#info img {
+        max-height:120px;
+        max-width:120px;
+        float:left;
+        padding-right:20px;
+}
+
+form {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 10px;
+}
+
+.section {
+    margin-top: 10px;
+    margin: 40px;
+    margin: 40px;
+    margin: 40px;
+    display:absolute;
+    left: 220px;
+}
+
+.section h2 {
+    text-align:center;
+    color: #005700;
+}
+
+.section h3 {
+    /*display:inline;*/
+    color: #990033;
+    padding-right:5px;
+    margin-top:0px;
+    margin-bottom:3px;
+}
+
+div.segment  {
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 25px;
+}
+
+.segment ul {
+    margin: 0px;
+}
+
+
+table .extra img {
+    padding:8px;
+    float:left;
+}
+
+table  img.info {
+    max-height:40px;
+}
+table  img.headphones {
+    max-height:40px;
+}
+table img.test {
+    max-height:40px;
+}
+
+table a {
+    font-weight: 200;
+}
+
+
+
+
+table{border:2px solid #990033; width:100%;}
+table tr {border-bottom:1px solid #990033; width:100%;}
+
+
+/*
+table .video {background: #E8EFF5;}
+table .video .description{background:PapayaWhip ;}
+table .handout{background:honeydew;}
+table .handout .description{background:rgba(255, 153, 102, 0.3);}
+table .story{background:rgba(255, 153, 153, 0.3);}
+table .story .description{background:rgba(255, 153, 102, 0.3);}
+table .pg{background:rgba( 189,183,107, 0.3);}
+table .pg .description{background:rgba(255, 153, 102, 0.3);}
+*/
+/*
+table .video {background: background: rgba(0, 102, 0, 0.3); ;}
+table .video .description{background: rgba(0, 102, 0, 0.3);}
+table .handout{background:honeydew;}
+table .handout .description{background:rgba(189,183,107,0.3);}
+table .story{background:rgba(153, 0, 51, 0.14);}
+table .story .description{background:rgba(255, 153, 102, 0.3);}
+table .pg{background:rgba( 189,183,107, 0.3);}
+table .pg .description{background:rgba(255, 153, 102, 0.3);}*/
+/* PapayaWhip */
